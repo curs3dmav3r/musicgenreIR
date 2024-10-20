@@ -1,0 +1,6 @@
+"""
+    Grunge is a subgenre of rock that emerged in the Pacific Northwest in the late 1980s and early 1990s, particularly in 
+    Seattle. It is characterized by its heavy guitar distortion, angst-filled lyrics, and a generally raw and unpolished sound. 
+    Bands like Nirvana, Pearl Jam, and Soundgarden helped define grunge, which became synonymous with the "Seattle sound." 
+    Grunge played a significant role in shaping 1990s rock and remains influential in alternative music today.
+    """

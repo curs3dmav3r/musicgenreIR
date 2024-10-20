@@ -1,0 +1,7 @@
+ """
+    Country music has roots in the folk traditions of the Southern United States, particularly in the Appalachian region. 
+    Early country music was marked by simple chord progressions, string instruments such as the guitar, banjo, and fiddle, 
+    and lyrics often dealing with heartache, rural life, and personal struggles. Legends like Johnny Cash, Willie Nelson, 
+    and Dolly Parton are key figures in the development of country music. Modern country has expanded to incorporate 
+    elements of pop and rock, broadening its appeal with artists like Taylor Swift and Luke Bryan.
+    """

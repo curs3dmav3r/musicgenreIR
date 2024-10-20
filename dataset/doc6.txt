@@ -1,0 +1,7 @@
+ """
+    Electronic dance music (EDM) refers to a broad range of percussive electronic music genres made primarily for nightclubs, 
+    raves, and festivals. EDM's early roots are found in the disco era of the 1970s, but it became its own genre in the late 
+    1980s and 1990s, thanks to developments in synthesizers and drum machines. Subgenres include house, techno, trance, and 
+    dubstep. Today, prominent DJs like David Guetta, Calvin Harris, and Skrillex have become global sensations, making EDM 
+    one of the most popular genres worldwide.
+    """

@@ -1,0 +1,8 @@
+ """
+    Hip hop originated in the Bronx, New York City, during the 1970s, primarily among African-American and Latino youth. 
+    It includes four main elements: rapping (MCing), DJing, breakdancing, and graffiti art. The genre is notable for 
+    its rhythmic vocal style, often performed over sampled beats or synthesized backing tracks. Pioneers of hip hop 
+    include artists like Grandmaster Flash, Tupac Shakur, and The Notorious B.I.G. Over time, hip hop has evolved 
+    into various subgenres such as trap, conscious rap, and drill, making it one of the most influential music genres 
+    in the world.
+    """

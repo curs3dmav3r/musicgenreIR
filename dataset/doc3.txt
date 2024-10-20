@@ -1,0 +1,7 @@
+"""
+    Rock music emerged in the 1950s and 1960s as a dominant force in popular music. It draws heavily from earlier 
+    genres such as blues, country, and rhythm and blues, combining them into a high-energy format driven by guitars, 
+    bass, and drums. Bands like The Beatles, The Rolling Stones, and Led Zeppelin pushed the boundaries of the genre, 
+    creating lasting cultural impacts. In the late 20th century, rock gave rise to subgenres such as hard rock, 
+    punk rock, alternative rock, and grunge, each representing different stylistic innovations.
+    """

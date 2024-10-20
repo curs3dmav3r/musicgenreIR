@@ -1,0 +1,7 @@
+"""
+    Jazz is a genre of music that originated in the African-American communities of New Orleans in the late 19th 
+    and early 20th centuries. It is characterized by swing and blue notes, call and response vocals, polyrhythms, 
+    and improvisation. Jazz has influenced many other genres of music, from rock and roll to hip hop. Famous jazz 
+    musicians include Louis Armstrong, Duke Ellington, and John Coltrane. One of the most remarkable aspects of 
+    jazz is its ability to evolve, leading to subgenres such as bebop, smooth jazz, and fusion.
+    """

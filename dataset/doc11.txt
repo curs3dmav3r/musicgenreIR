@@ -1,0 +1,7 @@
+"""
+    Folk music is a genre that encompasses traditional songs passed down orally through generations, often reflecting the 
+    cultures, values, and stories of a particular community or region. Folk music has roots in rural, working-class communities 
+    and is typically played on acoustic instruments like the guitar, banjo, or fiddle. Notable folk musicians include Woody 
+    Guthrie, Bob Dylan, and Joan Baez. The genre has influenced various other styles, including rock and country, and continues 
+    to thrive today in both traditional and modern forms.
+    """

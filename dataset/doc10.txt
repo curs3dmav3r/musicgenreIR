@@ -1,0 +1,7 @@
+ """
+    Metal is a genre of rock music that developed in the late 1960s and early 1970s, heavily influenced by blues rock 
+    and psychedelic rock. Metal is known for its heavy guitar riffs, powerful drumming, and aggressive vocals. Subgenres 
+    such as thrash metal, death metal, and black metal emerged over time, each adding their unique twist to the basic 
+    formula. Bands like Metallica, Iron Maiden, and Black Sabbath have played significant roles in popularizing the genre. 
+    Lyrically, metal often explores dark and complex themes, resonating with a dedicated and passionate fanbase.
+    """

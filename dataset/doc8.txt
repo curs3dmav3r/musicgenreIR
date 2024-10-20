@@ -1,0 +1,7 @@
+ """
+    Reggae emerged from Jamaica in the 1960s and is closely associated with the Rastafarian movement. Reggae's rhythm 
+    is characterized by a strong offbeat, known as the "skank," and it often addresses social and political issues, 
+    making it more than just a musical genre. Bob Marley is undoubtedly the most famous reggae artist, and his songs 
+    such as "One Love" and "No Woman, No Cry" have become anthems for peace and unity worldwide. Reggae has influenced 
+    many other genres, including hip hop, punk, and dub.
+    """

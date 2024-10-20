@@ -1,0 +1,7 @@
+"""
+    Ska is a genre that originated in Jamaica in the late 1950s, blending elements of Caribbean mento and calypso with American 
+    jazz and rhythm and blues. Ska is characterized by its upbeat tempo, walking basslines, and offbeat rhythms. The genre 
+    gave rise to subgenres like rocksteady and reggae. Bands like The Skatalites and The Specials were key players in popularizing 
+    ska, which has influenced punk rock and modern reggae music.
+    """
+

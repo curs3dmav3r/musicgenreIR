@@ -1,0 +1,7 @@
+"""
+    Reggaeton is a genre that originated in Puerto Rico during the late 1990s, blending elements of reggae, dancehall, and 
+    Latin music. It is characterized by its rhythmic beat known as the "dembow" and often features lyrics in Spanish. 
+    Reggaeton has gained widespread popularity, with artists like Daddy Yankee, Bad Bunny, and J Balvin bringing the genre 
+    to international audiences. The music is often associated with urban culture and has influenced mainstream pop and hip hop.
+    """
+

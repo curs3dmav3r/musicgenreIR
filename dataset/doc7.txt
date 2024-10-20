@@ -1,0 +1,7 @@
+ """
+    Blues is a genre that originated in the Deep South of the United States around the end of the 19th century, by African 
+    Americans from roots in African musical traditions, spirituals, and work songs. The genre is characterized by its use 
+    of the blues scale, call-and-response patterns, and specific chord progressions, particularly the 12-bar blues. 
+    Blues has deeply influenced other genres, including rock, jazz, and R&B. Key figures in the blues tradition include 
+    B.B. King, Muddy Waters, and Robert Johnson, whose work has laid the foundation for countless musicians.
+    """

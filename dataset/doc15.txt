@@ -1,0 +1,7 @@
+"""
+    Punk rock is a genre that emerged in the mid-1970s, characterized by its fast tempos, raw sound, and anti-establishment 
+    lyrics. Punk is often seen as a reaction against the perceived excesses of mainstream rock music. Bands like The Ramones, 
+    The Sex Pistols, and The Clash helped define punk, with their simple, aggressive music and DIY ethos. Punk has since 
+    splintered into various subgenres, such as hardcore punk and pop-punk, and continues to influence the broader rock landscape.
+    """
+

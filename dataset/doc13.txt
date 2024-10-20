@@ -1,0 +1,7 @@
+"""
+    Soul music emerged in the late 1950s and early 1960s as a combination of gospel, rhythm and blues, and jazz. It is 
+    characterized by its passionate vocals, emotional intensity, and strong rhythms. Many soul songs focus on themes of love, 
+    heartache, and resilience. Legendary soul artists such as Aretha Franklin, Otis Redding, and Marvin Gaye helped define the 
+    genre, which has significantly influenced the development of funk, disco, and modern R&B.
+    """
+

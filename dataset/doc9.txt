@@ -1,0 +1,7 @@
+ """
+    Pop music, short for "popular music," is a genre that draws from various styles but focuses on mass appeal. It 
+    typically features catchy melodies, simple lyrics, and repetitive hooks. Pop music became a dominant force in the 
+    20th century with the rise of iconic artists like Michael Jackson, Madonna, and Britney Spears. Today, pop has 
+    evolved to incorporate elements of R&B, hip hop, and electronic music, with stars like Ariana Grande, Billie Eilish, 
+    and Justin Bieber leading the charge.
+    """

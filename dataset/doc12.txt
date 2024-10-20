@@ -1,0 +1,8 @@
+"""
+    Gospel music is a genre deeply rooted in Christian religious traditions, especially within African-American churches in the 
+    United States. It often features powerful vocals, call-and-response singing, and themes of faith, salvation, and hope. 
+    Gospel music has had a profound influence on other genres such as soul, R&B, and rock and roll. Some of the most notable 
+    gospel artists include Mahalia Jackson, Kirk Franklin, and the Clark Sisters. Gospel continues to be an important genre 
+    in both spiritual and mainstream music contexts.
+    """
+

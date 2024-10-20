@@ -1,0 +1,8 @@
+"""
+    R&B, or rhythm and blues, is a genre that originated in the 1940s and 1950s, blending elements of jazz, gospel, and 
+    blues. Known for its soulful vocals and smooth, groove-driven sound, R&B has evolved over the decades, giving rise 
+    to various subgenres, including contemporary R&B. Artists like Ray Charles, Stevie Wonder, and Beyoncé have all played 
+    a significant role in shaping the genre. R&B remains a dominant force in popular music, influencing everything from 
+    hip hop to pop.
+    """
+

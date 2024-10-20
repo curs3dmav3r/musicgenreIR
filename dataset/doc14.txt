@@ -1,0 +1,8 @@
+"""
+    Funk is a genre that originated in the mid-1960s, marked by a strong, danceable groove and a focus on rhythm and bass. 
+    Funk's roots lie in soul, jazz, and rhythm and blues, with a particular emphasis on syncopated rhythms and improvisation. 
+    Pioneers like James Brown, Parliament-Funkadelic, and Sly and the Family Stone helped shape the sound of funk, which has 
+    gone on to influence hip hop, rock, and electronic music. Funk is particularly known for its use of "the one," a heavy 
+    emphasis on the first beat of every measure.
+    """
+

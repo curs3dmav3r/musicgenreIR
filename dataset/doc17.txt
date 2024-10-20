@@ -1,0 +1,7 @@
+"""
+    Latin music encompasses a wide variety of styles that originate from Spanish- and Portuguese-speaking countries, particularly 
+    in Latin America and Spain. It includes genres like salsa, reggaeton, tango, and bachata, each with its own unique rhythms 
+    and instrumentation. Latin music is known for its vibrant, energetic sound, often incorporating danceable rhythms and 
+    complex percussion. Artists such as Shakira, Ricky Martin, and Daddy Yankee have helped popularize Latin music globally.
+    """
+

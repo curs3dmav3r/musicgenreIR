@@ -1,0 +1,8 @@
+"""
+    Classical music refers to the formal musical tradition rooted in Western culture, dating back to the period of 
+    the 11th century. It spans a broad period from the medieval to the present day. This genre is known for its highly 
+    structured compositions, often written for orchestras, choirs, or solo instruments such as the piano or violin. 
+    Some of the greatest composers of classical music include Ludwig van Beethoven, Wolfgang Amadeus Mozart, and 
+    Johann Sebastian Bach. Many classical pieces, like Beethoven’s "Fifth Symphony" or Mozart’s "Requiem," remain 
+    central to modern music education and performance.
+    """
